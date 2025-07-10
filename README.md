@@ -1,3 +1,5 @@
+<img width="1366" height="680" alt="image" src="https://github.com/user-attachments/assets/c00e0356-9e59-4864-8265-79287029e51a" />
+
 # Frontend Mentor - Social proof section solution
 
 This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -27,9 +29,7 @@ Users should be able to:
 - Navigate the site using keyboard controls
 - View the site on any device with proper responsiveness
 
-### Screenshot
-
-![](./design/desktop-preview.jpg)
+<img width="1366" height="680" alt="image" src="https://github.com/user-attachments/assets/3416be0c-5ffb-4e5c-be7b-a4af07746f82" />
 
 ### Links
 
