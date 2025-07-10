@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/profile/iwedibah)
-- Live Site URL: [Add your live site URL here]
+- Live Site URL: [https://iwedibah.github.io/Social-Proof-Section/]
 
 ## My process
 
